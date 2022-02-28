@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The temples foundation laid: or, a way for setlement of religion. Humbly presented unto the Parliament. By M.T.</title>
+            <author>M. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95311</idno>
+            <idno type="STC">Wing T31</idno>
+            <idno type="STC">Thomason E724_13</idno>
+            <idno type="STC">ESTC R207271</idno>
+            <idno type="EEBO-CITATION">99866333</idno>
+            <idno type="PROQUEST">99866333</idno>
+            <idno type="VID">118604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118604)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E724[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The temples foundation laid: or, a way for setlement of religion. Humbly presented unto the Parliament. By M.T.</title>
+                  <author>M. T.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G.D. for Giles Calvert at the Black Spread Eagle near the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 19:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118604:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>THE Temples Foundation LAID: OR, A Way for SETLEMENT OF RELIGION. Humbly Preſented unto the PARLIAMENT.</p>
+            <p>By M. T.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. D.</hi> for <hi>Giles Calvert</hi> at the Black Spread-Eagle near the Weſt End of <hi>Pauls</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:118604:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="1" facs="tcp:118604:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>THE <hi>TEMPLES FOVNDATION LA</hi> OR, A Way for SETTLEMENT OF RELIGION.</head>
+            <epigraph>
+               <q>
+                  <p>Let your Moderation be known unto all men, for the Lord is at hand.</p>
+                  <bibl>
+                     <hi>Phil. 4. v. 5.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N Church diſcipline or the affaires of the Church, it was the great expectation of the people of God, and the grant of Authority they rejoyced in, that there ſhould be a due regard had to tender Conſciences: Yet Epiſcopacy, Presbytery, <hi>&amp;c.</hi> having, as they conceived, the ſword of authority in their hand, made ſome Saints groan, and their cry hath come up into the eares of the Almighty,
+<pb n="2" facs="tcp:118604:3"/>
+               <!-- PDF PAGE 75 -->who hath ſaid, <hi>Touch not mine annointed, and do my Pro<g ref="char:EOLhyphen"/>phets no harm:</hi> For, <hi>if ye touch them, ye touch the apple of mine eye.</hi> And having taken to himſelf his great power, and powring forth his Viols of wrath, moſt have blaſ<g ref="char:EOLhyphen"/>phemed and not repented, and in the confidence of their wayes, have not eyed, whether <hi>Moderation</hi> hath been found in them, and that Righteous Law, <hi>Quod tibi ne feceris, alteri ne facias,</hi> (the Perſpective Glaſſe into all Lawes) hath been by them neglected. And hence come Warres, Fightings, Back-bitings, <hi>&amp;c.</hi> and who knows how ſoon the cryers of Hoſannah may cry, <hi>Crucifie, Cru<g ref="char:EOLhyphen"/>cifie?</hi>
+            </p>
+            <p>And the ground of this hath been Zeal, (but not ac<g ref="char:EOLhyphen"/>cording to knowledge. Therefore it is neceſſary to con<g ref="char:EOLhyphen"/>ſider Zeal, Firſt, As it hath been contrary to God and his People. Secondly, As it may, and ought to be, eve<g ref="char:EOLhyphen"/>ry Chriſtians practiſe.</p>
+            <p>Zeal then conſidered, as contrary to God and his People, will not need much labour to prove, as having been by moſt of the people of God granted, and by their practiſe, in oppoſition to the Lawes in force under Epiſcopacy, and Presbyterie, made manifeſt. For the ſlying of ſome to <hi>New England,</hi> to <hi>Holland,</hi> and to ſe<g ref="char:EOLhyphen"/>cret Coverts, to avoyd the High Commiſſion, teſtifies clearly, the truth of their ſufferings, rather than to con<g ref="char:EOLhyphen"/>form to the Act of Uniformity. And the keeping up of the ſame Lawes in the time of Presbyterie, ſhewes the ſame ſpirit active then.</p>
+            <p>But it may be Octjected, <hi>That thoſe very Miniſters, that cost many vaſt eſtates, to carry and maintaine them be<g ref="char:EOLhyphen"/>yond the Seas, do come and enjoy the fatteſt livings in the land now, and performe every thing thoſe Miniſters did a<g ref="char:EOLhyphen"/>gainſt whom they cryed,</hi> Seperate, and be ye ſeperated, <hi>and therefore it will be neceſſary to enquire, whether there were a true ground to ſeperate, and whether thoſe things, ſo zealouſly impoſed, were againſt God and his People.</hi>
+            </p>
+            <p>The Tracts are many and large againſt mixt Commu<g ref="char:EOLhyphen"/>nions, which to every underſtanding man (to whom
+<pb n="3" facs="tcp:118604:3"/>
+               <!-- PDF PAGE 75 -->theſe are intended) are ſo clear, that I ſhall forbear to to urge any more texts than, <hi>come out of her my people,</hi> and, <hi>what fellowſhip hath light with darkneſſe.</hi> And my opinion is, that whoſoever ſhall command any thing in the worſhip and ſervice of God, ſits in the Temple of God as God, and if he does command Tables to Altars, making of Churches and Miniſters thereto, <hi>jure divino,</hi> He is Antichriſt in the height, and ſits in the Temple of God, againſt God, an Enemy ready for deſtruction: And whoſoever obeyeth ſuch commands is to be ſepara<g ref="char:EOLhyphen"/>ted from, in it.</p>
+            <p>But it will be Objected, <hi>That there was never any thing impoſed yet, but under colour of Scripture Authori<g ref="char:EOLhyphen"/>ty.</hi>
+            </p>
+            <p>To which I Anſwer, Their works accordingly were burnt up and they ſuffered loſſe.</p>
+            <p>It will be Objected againe, <hi>That fear of flying to high may cauſe a flying to low, therefore if no courſe be taken by Authority in Settlement of Religion, the conſequences appears already to be very dangerous.</hi>
+            </p>
+            <p>To the which I Anſwer, That the moſt diſputable points (moſt commonly inſiſted on for ſetling Church Government) about the viſible Churches, the Miniſte<g ref="char:EOLhyphen"/>ry, and Sacraments, will not be found any wayes con<g ref="char:EOLhyphen"/>ducing to the ends propoſed. For the great advan<g ref="char:EOLhyphen"/>tage to the civilizing of People to extirpate all viciouſ<g ref="char:EOLhyphen"/>neſſe, and to encreaſe knowledge in the Scriptures, hath been the Preaching of the World, or the Saints of God giving forth their apprehenſions of the Scriptures, which are the Preachings of the Prophets and Apoſtles, and as they were ſent, ſo by their writings do preach to the end of the world. And this preſent age hath been much puzled, labouring to find out, and ſet up men as their ſucceſſours, which proſecuted, <hi>vi &amp; armis,</hi> with their intereſts, hath cauſed the Judgements of God, who will vindicate his own way.</p>
+            <p>And therefore before I go to lay down that Order of Preaching or ſearching the Scriptures neceſſary for the
+<pb n="4" facs="tcp:118604:4"/>
+               <!-- PDF PAGE 76 -->Nation, I ſhall briefly ſet forth the true and falſe Mini<g ref="char:EOLhyphen"/>ſtery.</p>
+            <p>The true Miniſtery ſeems to be held forth to me, in <hi>Epheſ.</hi> 4. <hi>v.</hi> 11, 12. <hi>And he gave ſome Apoſtles, ſome Prophets, ſome Evangeliſts, ſome Paſtors, ſome Teachers, for the joynting or grafting in of the Saints into the work, of the Miniſtery.</hi> And the Lord accordingly hath own<g ref="char:EOLhyphen"/>ed the Miniſtery in this Land, <hi>qua</hi> Saints, and diſown<g ref="char:EOLhyphen"/>ed and puniſht that which was ſet up Authoritatively, as an Idoll, or as one having a gold ring, and as it ſtopt the mouthes of other Saints, met in the fear of the Lord. And as the Obſervator upon <hi>Clement, Pauls</hi> fellow-la<g ref="char:EOLhyphen"/>bourer, the beſt piece of Antiquity in the world ſhewes, that in his time, when there was a viſible Church, a vi<g ref="char:EOLhyphen"/>ſible Miniſtery, &amp;c. That even then, as he writes, <hi>omnes Sancli ſunt Cleri;</hi> And the word <hi>Laicus</hi> had not to this day obtained a place in our <hi>Lexicons.</hi> It would certainly be dangerous to ſet up a Miniſtery of mans making. But as this is dangerous to aſſert, in theſe times wherein we hope better things, I am bold to adventure the danger, not knowing that I erre from the moſt Orthodox Wri<g ref="char:EOLhyphen"/>ters, Scriptures, or Councels.</p>
+            <p>As for Writers to the point of the viſible Church, never any of note, or worth noting, anſwer <hi>Bellarmin,</hi> and the Papiſts, otherwiſe, than that it is not neceſſary the Church ſhould be Viſible: <hi>Willet</hi> in his <hi>Synopſis Papiſmi</hi> uſes it, and ſo does <hi>Calvin,</hi> and all the chief Writers. Which ſeems to me a weak anſwer, and this day it is the firſt point, and onely one, a Jeſuite inſiſteth on againſt us, and our unhandſome dealing therein wil<g ref="char:EOLhyphen"/>ing to keep our Hierarchy, hath ſent thouſands back to <hi>Rome.</hi>
+            </p>
+            <p>For in truth if a viſible Church (moſt commonly by lovers of Truth) adjudged theirs for the Channel, la<g ref="char:EOLhyphen"/>boured to be cut by divers, ſeems to have the impregna<g ref="char:EOLhyphen"/>ble Alps in the way. But if no viſible Church, no viſible Miniſtery, being as inſeperable as the ſoul from a living man. And many of our late Orthodox Writers ſay ex<g ref="char:EOLhyphen"/>preſly,
+<pb n="5" facs="tcp:118604:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 76 -->that <hi>the Church was inviſible,</hi> as <hi>Brightman,</hi> and divers others. And the Scriptures are evident for it; for <hi>upon the opening of the ſeventh Seale, the Sun was darkened, the Moon loſt her light, and the Starres fell from heaven,</hi> which was doubtleſſe the ceaſing of the viſible Church, foretold by our Saviour in the Evange<g ref="char:EOLhyphen"/>liſts, to follow immediately after that Generation was paſt away.</p>
+            <p>And Scripture ſeemes to hold forth clearly the Church to be inviſible, if the Covenant of God be that <hi>formale eſſe</hi> of a Church, which gives the being, then as the Covenant is ſpiritual ſo is the Houſe; for the Covenant of Circumciſion was viſible, if that ſuch did ſhew forth the death and reſurrection of Chriſt, they were legall, and being ſhadowes muſt paſſe away, the Subſtance being come. For ſayes the Apoſtle, <hi>The Law hath the ſhadow of good things to come:</hi> by which we know, what was legall and ceremonious, which Lawes and Ceremonies, the Apoſtle writing of them, as they were under divine inſtitution, termes them, beggerly and weak: and if we did truly know and weigh the new Covenant, and the enjoyment thereof, we ſhould be ſo farre from conteſting about meats, and drinks, and dayes, and waſhings, that if there were di<g ref="char:EOLhyphen"/>vine inſtitution upon them, yet to be valued no fur<g ref="char:EOLhyphen"/>ther than as to fulfill all righteouſneſſe, and not to be lookt upon as ſerving to purifie the Conſcience, where<g ref="char:EOLhyphen"/>as the New Creature is All.</p>
+            <p>And if it appear then, that the Covenant is altoge<g ref="char:EOLhyphen"/>ther ſpirituall, doubtleſſe the Houſe is ſpirituall; one Holy Catholique Church, as the firſt, and all Councels, worthy the name, conclude. And doubtleſſe the Coun<g ref="char:EOLhyphen"/>cels of <hi>England,</hi> making thoſe new Diſtinctions of the Church of <hi>England,</hi> and Pariſh Churches, uſed the word as Heathens did, or as ſome of our late Councels, to be ſo <hi>jure humano,</hi> by which they were in a fair way to ſettle the Nation, but the violence of ſome ſpirits, if not ſelf intereſts, that they might give law to them that
+<pb n="4" facs="tcp:118604:5"/>
+               <!-- PDF PAGE 77 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:118604:5"/>
+               <!-- PDF PAGE 77 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:118604:6"/>
+               <!-- PDF PAGE 78 -->made them, by a Law would be <hi>jure divino,</hi> till divine Juſtice vindicated his own honour.</p>
+            <p>And if the Lords going through the red Sea, in de<g ref="char:EOLhyphen"/>ſtroying thoſe enemies, be worthy our obſervation, and if ſo much can be ſaid, as before, to ſhew the invi<g ref="char:EOLhyphen"/>ſibility of Church and Miniſtry, for <hi>quatenus</hi> a Saint, he is inviſible from a hypocrite.</p>
+            <p>I ſay then, if that Miniſtry of Saints under bondage, hath been ſo beneficial to the Nation, and the onely meanes of good, to the ends before propoſed, let true Zeal propagate it to freedome.</p>
+            <p>Zeal then truly conſidered, to propagate the Go<g ref="char:EOLhyphen"/>ſpel to freedome, admits of a <hi>Quaere, Whether it ſhould be Coercive or not Coercive.</hi>
+            </p>
+            <p>To which if I ſhould poſitively anſwer, I know my doom, the judgements of men ſtanding on each ſide like <hi>Scilla</hi> and <hi>Charibdis.</hi> And becauſe I intend to ſhew the unneceſſarineſs of a <hi>Coercive</hi> power, I might well paſſe it by.</p>
+            <p>But if I put in a word, it may not be altogether un<g ref="char:EOLhyphen"/>neceſſary. I ſhall ſay then, that if the Magiſtrate may Coerce any civill aſſembling, why not this? why not a metting to read a Chapter? &amp;c. under the ſame ſtamp of <hi>jure humano;</hi> and if upon any other account, as <hi>jure divino,</hi> to order any thing in Gods worſhip, my opinion is, he ſits in the Temple of God as God, and if he Coerce, God will grind him to pouder.</p>
+            <p>But I ſhall proceed to ſhew the unneceſſarineſs of a Coercive power, the <hi>Independent,</hi> and <hi>Anabaptiſt,</hi> and all Church-fellowſhips of the ſame nature need it not. The loſt ſheep onely ſtand in need; and what's their cry? <hi>When will the State ſettle Religion? we live like Heathen;</hi> and indeed their caſe is ſad. And if the State would but appoint them a way for acquainting them with the Scriptures, and order a Diſcipline for ruling their lives and converſations, I am confident the fore named fellowſhips would not outſhine them, and thereby the Diviſions in the Land, upon the account
+<pb n="7" facs="tcp:118604:6"/>
+               <!-- PDF PAGE 78 -->of one more holy than his fellow taken away: and one<g ref="char:EOLhyphen"/>ly a holy emulation remain, as who ſhould be moſt ho<g ref="char:EOLhyphen"/>ly in truth. It will be neceſſary then, to proceed par<g ref="char:EOLhyphen"/>ticularly in the appointment of a way for the acquaint<g ref="char:EOLhyphen"/>ing of the loſt ſheep of the Nation with the Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            <p>The perſons neceſſary to be imployed in ſuch a work, are worthy our conſideration.</p>
+            <p>Firſt, If they be members of Congregations, it will break the Congregations.</p>
+            <p>Secondly, Such as are likely to extend the appoint<g ref="char:EOLhyphen"/>ments of Authority to a yoke, and heavily impoſe it, will overthrow the intended work.</p>
+            <p>Thirdly, If the loſt ſheep be prejudiced againſt ſuch perſons, the ends propoſed will not be effected.</p>
+            <p>Fourthly, Conveniency of time and place ſuites not with Church-Members.</p>
+            <p>Fifthly, The emulation to holineſſe is taken away betwixt them.</p>
+            <p>Sixthly, The enlargedneſſe of ſpirit to each others good, appeares not in them.</p>
+            <p>Seventhly, It may be much feared, that the precious opportunities in ſuch meetings, will be devoured in vain janglings, and queſtions, about Church-form, neglect<g ref="char:EOLhyphen"/>ing the ſubſtance.</p>
+            <p>Eighthly, If the loſt ſheep ſhall not partake of the Sacraments, &amp;c. with thoſe ſent unto them, it will cauſe breach of love, &amp;c.</p>
+            <pb n="8" facs="tcp:118604:7"/>
+            <!-- PDF PAGE 79 -->
+            <p>Ninthly, In ſettlement of Religion, Peace and agree<g ref="char:EOLhyphen"/>ment is chiefly to be ſought, which cannot be betwixt perſons ſo different.</p>
+            <p>Tenthly, If perſons of enlarged ſpirits, as Mr. <hi>Sterry,</hi> Mr. <hi>William Sedgwick,</hi> Mr. <hi>Dell,</hi> Mr. <hi>Bacon,</hi> Mr. <hi>Sprigg,</hi> &amp;c. be appointed a Committee into ſeverall Counties, for putting in force the Order intended, as to time, place, perſons, and the work to be done, <hi>quam facile eſt.</hi>
+            </p>
+            <p>The time moſt ſutable will be the firſt day of the week.</p>
+            <p>The place would be moſt convenient ſutable to the perſons.</p>
+            <p>The perſons intended, are one, two, or more Pariſhes, as thoſe Commiſſioners ſhall ſee fit, wherein will be be found ſome 4, 6, or 8. fit for Moderators, to preſerve the meeting from confuſion, being wiſe, holy in life, knowing in the Scriptures, that whatſoever is done may be for edification.</p>
+            <p>The Work intended, wherein the Nation would re<g ref="char:EOLhyphen"/>joyce, is the reading of the accuſtomed Pſalmes and Chapters in the Old and New Teſtament; and I ſhould argue, if my child loved Hiſtory, as the Chronicles, ſo he read in the Bible, I ſhould like it, and not doubt to be able to ſhew him ſomething very profitable; and if he ſhould inquire and ſearch after the meaning, I ſhould rejoyce in it, and think my ſelf happy, and why not the meaneſt in the Nation have the ſame priviledge, though it were good civill policy to diſown ſuch children as live diſorderly. And commending the word of exhor<g ref="char:EOLhyphen"/>tation and inſtruction to the Moderators, I ſhall (in<g ref="char:EOLhyphen"/>tending brevity all along) forbear a more exact form in the Method, conceiving ſuch perſons named more fit.</p>
+            <pb n="9" facs="tcp:118604:7"/>
+            <!-- PDF PAGE 79 -->
+            <p>There remaines, in Order to a more excellent ſhining of the Nation, a Diſcipline, which was never practiſed but in the non-conformable Churches, which cauſes their ſhining, but drawn forth into Queſtions of Church Mi<g ref="char:EOLhyphen"/>niſtery and Sacraments, by the Church of England. And the ſeverity of that Diſcipline, for ſuch queſtionable things, from their own mouthes, runs ſo in their Diſci<g ref="char:EOLhyphen"/>ples mouthes, that it would make a man tremble, eſpeci<g ref="char:EOLhyphen"/>ally if they are in authority, that it ſtrikes like lightning. And under this Diſcipline, moſt commonly a Heritique judgeth a Saint a Heretique: And therefore all judging for matter of Opinion I forbear, conceiving as the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>That if ſuch a one comes in he will be judged of all,</hi> and, <hi>that Truth ſeeks no ſword for its Protector.</hi>
+            </p>
+            <argument>
+               <p>The Copy of the Order to the Com<g ref="char:EOLhyphen"/>miſſioners, and the Act of Parliament intended hereunto neceſſary alſo ſet down.</p>
+            </argument>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:118604:8"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="11" facs="tcp:118604:8"/>
+            <!-- PDF PAGE 80 -->
+            <head>The Magiſtrate, as Parents to Children, and Maſters to Servants, ought to ex<g ref="char:EOLhyphen"/>hort and correct evill doers and there<g ref="char:EOLhyphen"/>fore ſends Letters, and gives his autho<g ref="char:EOLhyphen"/>rity to ſome Deputies, <hi>Moſes</hi> himſelf not being able to bear the burden himſelf.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O <hi>A. B.</hi> and <hi>C. D.</hi> We deſire and require you to go through ſuch a County, appointing Pariſhes, as you think fit, to meet the firſt day of the week at the moſt con<g ref="char:EOLhyphen"/>venient place, or places, at accuſtom<g ref="char:EOLhyphen"/>ed houres, and to appoint ſuch whoſe lives, in your Iudgement, do render them to be Saints, to read the Pſalmes and Chapters, in the Old
+<pb n="12" facs="tcp:118604:9"/>
+               <!-- PDF PAGE 81 -->and New Teſtament, as was ac<g ref="char:EOLhyphen"/>cuſtomed to be read, and that accor<g ref="char:EOLhyphen"/>ding to their beſt abilities they do firſt of all inquire into a right under<g ref="char:EOLhyphen"/>ſtanding and meaning of the words read: And to avoid confuſion, there ſhall be with your conſent, four Mo<g ref="char:EOLhyphen"/>derators, or more, who may after<g ref="char:EOLhyphen"/>ward give forth ſuch inſtructions and exhortations as are pertinent to the ſaid Scriptures. And we re<g ref="char:EOLhyphen"/>quire you further to inquire into the lives and converſations of People, ſharply reproving ſuch as live diſor<g ref="char:EOLhyphen"/>derly, in a continued ſcandalous way of ſinning againſt God: And that you leave order in writing for the Moderators of one hundred, to chooſe four from amongſt them to go into the next hundred, every ſix moneths, <hi>Viz. <hi>June 24.</hi>
+               </hi> and <hi>December 25.</hi> and inquiring for, and ſharply reproving ſuch as live in a continu<g ref="char:EOLhyphen"/>ed ſcandalous way of ſinning a<g ref="char:EOLhyphen"/>gainſt God. And if after ſuch re<g ref="char:EOLhyphen"/>proofe they amend not, to give
+<pb n="13" facs="tcp:118604:9"/>
+               <!-- PDF PAGE 81 -->notice of their names and crimes to the next Iuſtice.</p>
+            <div type="authority">
+               <head>Authoritate Parliamenti.</head>
+               <p>And whereas it is a ſhame that Chriſtians ſhould come to be judged by Heathens,</p>
+               <p>Be it Enacted by Authority of this preſent Parliament, that no man within this Common-wealth, that is not adjudged a Saint, ſhall be of any Iury. And that the Iuſtices of the Peace doe ap<g ref="char:EOLhyphen"/>point a Iury of the Neighbour<g ref="char:EOLhyphen"/>hood to fine any perſon being found guilty by them, upon the Oath of two ſufficient Witneſſes, of his live<g ref="char:EOLhyphen"/>ing in a continued ſcandalous way of ſinning againſt God. And it ſhall be lawfull for the ſaid Iuſtices to mitigate the ſaid fiue: Which ſhall be to the onely uſe of the poor of
+<pb n="14" facs="tcp:118604:10" rendition="simple:additions"/>
+                  <!-- PDF PAGE 82 -->the Pariſh where the Offender liv<g ref="char:EOLhyphen"/>eth. The fine not exceeding the fifti<g ref="char:EOLhyphen"/>eth part of any mans viſible Eſtate, or the half of his yearly Revenue. And onely in default thereof a Cor<g ref="char:EOLhyphen"/>porall puniſhment.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
